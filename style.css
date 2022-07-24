@@ -1,0 +1,73 @@
+body{
+    width: 98%;
+    margin: auto;
+    background: whitesmoke;
+    text-align: center;
+}
+
+.container{
+    /* border:2px solid red; */
+    width:300px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+h2, h4, p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#plant{
+    color: green;
+}
+
+.info{
+    color: inherit;
+    margin:0 25px;
+}
+
+/* .img-container{    
+    margin: auto;
+    margin-top: 20px;
+} */
+
+img{
+    border-radius: 50%;
+    width: 140px;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+.underline{
+    border-bottom:3px solid green;
+    width: 80px;
+    margin: auto;
+    margin-top: -15px;
+}
+
+.review{
+    background: white; 
+    width: 350px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.prevBtn, .nextBtn{
+    background:none;
+    border:none;
+    color:green;
+    margin-top: 15px;
+}
+
+button{
+    background:lightgreen;
+    border:1px solid green;
+    color:black;
+    margin-bottom: 20px;
+    padding:6px 14px;
+    border-radius: 10px;
+    border: 2px solid red;
+    
+}
